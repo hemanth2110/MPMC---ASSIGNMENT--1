@@ -51,9 +51,18 @@ REVERSE_LOOP:
     INC DI                  ; Move to next element in ARR2
     LOOP REVERSE_LOOP       ; Repeat until CX = 0
 
-    HLT                     ; Stop execution
+    HLT          
+           ; Stop execution
 CODE ENDS
 END START
 ```
 OUTPUT
+
+<img width="640" height="428" alt="ASS 1" src="https://github.com/user-attachments/assets/5de448aa-7f6c-47a1-9264-8750e9cb8a33" />
+<img width="999" height="634" alt="11ass" src="https://github.com/user-attachments/assets/d751cdc8-7833-4103-b612-67d943c31a9c" />
+
+Result:
+
+The elements of the array were successfully reversed and stored in another memory location using 8086 assembly language.
+
 
