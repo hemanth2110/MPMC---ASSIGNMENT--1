@@ -59,7 +59,7 @@ END START
 OUTPUT
 
 <img width="640" height="428" alt="ASS 1" src="https://github.com/user-attachments/assets/5de448aa-7f6c-47a1-9264-8750e9cb8a33" />
-<img width="999" height="634" alt="11ass" src="https://github.com/user-attachments/assets/d751cdc8-7833-4103-b612-67d943c31a9c" />
+<img width="791" height="488" alt="Screenshot 2025-11-03 112148" src="https://github.com/user-attachments/assets/41a1076d-7071-4c43-8f05-1667e47504fd" />
 
 Result:
 
